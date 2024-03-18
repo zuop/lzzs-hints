@@ -1,0 +1,29 @@
+{
+	"name": "lzzs-hints",
+	"version": "1.0.0",
+	"description": "页面操作提示组件",
+	"main": "src/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/zuop/lzzs-hints.git"
+	},
+	"keywords": [
+		"hints"
+	],
+	"author": "zuop",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/zuop/lzzs-hints/issues"
+	},
+	"homepage": "https://github.com/zuop/lzzs-hints#readme",
+	"dependencies": {
+		"lodash": "^4.17.21",
+		"moment": "^2.30.1",
+		"jz-region": "^1.0.3",
+		"jz-validate": "^1.0.2",
+		"element-plus": "^2.4.2"
+	}
+}
